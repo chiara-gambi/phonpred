@@ -1,2 +1,2 @@
 # phonpred
-raw data and analysis scripts for the Phonological Prediction project
+Pre-processed data and analyses scripts for the Phonological Prediction project
