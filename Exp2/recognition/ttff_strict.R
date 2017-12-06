@@ -1,4 +1,4 @@
-# Gambi, Gorrie, Pickering, Rabagliati (2017). The development of linguistic prediction: Predictions of sound and meaning in 2-to-5 year olds.
+# XXX (2017). The development of linguistic prediction: Predictions of sound and meaning in 2-to-5 year olds.
 # Time to first look to target on Distractor initial trials (from Determiner Onset)
 # Experiment 2
 fixsumbinT.D<-read.table("First_fix_Det.txt",header=T)
