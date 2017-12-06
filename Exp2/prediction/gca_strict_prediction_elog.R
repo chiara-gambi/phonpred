@@ -1,4 +1,4 @@
-# Gambi, Gorrie, Pickering, Rabagliati (2017). The development of linguistic prediction: Predictions of sound and meaning in 2-to-5 year olds.
+# XXX (2017). The development of linguistic prediction: Predictions of sound and meaning in 2-to-5 year olds.
 # Analysis of fixation proportions from Determiner Onset to Noun Onset + 100ms (Prediction window) using Growth Curves
 # Experiment 2
 
