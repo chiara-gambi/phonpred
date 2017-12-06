@@ -1,4 +1,4 @@
-# Gambi, Gorrie, Pickering, Rabagliati (2017). The development of linguistic prediction: Predictions of sound and meaning in 2-to-5 year olds.
+# XXX (2017). The development of linguistic prediction: Predictions of sound and meaning in 2-to-5 year olds.
 # Post-hoc analyses looking at the effect of picture occurrence
 # These analyses are not reported in the paper
 # Experiment 1
